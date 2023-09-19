@@ -1,0 +1,56 @@
+body{
+    background-image: url("../img/BG1.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.logo{
+    width: 135px;
+    height: 80px;
+    flex-shrink: 0;
+    margin-top: 26px;
+    margin-left: 50px;
+}
+
+.imggirl{
+    width: 560px;
+    height: 560px;
+    flex-shrink: 0;
+    margin-top: -220px;
+    margin-left: 624px;
+}
+
+h1{
+    color: #FFF;
+    font-family: 'Manrope', sans-serif;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    margin-left: 48px;
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
+
+a {
+    color: #FFF;
+	text-decoration: none;
+    font-family: 'Manrope', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+ul{
+    list-style-type: none;
+}
+
+li{
+    margin-left: 8px;
+    margin-right: 47px;
+}
+
+.return{
+    margin-left: 48px;
+}
